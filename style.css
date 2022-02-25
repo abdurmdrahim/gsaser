@@ -1,0 +1,24 @@
+body{background-image: url("./bgc.jpg");
+    
+    background-repeat:no-repeat;background-size: 100%;}
+.header{ width:90%;margin:auto;}
+
+
+.h-logo{width:5%; float:left;margin:0px;padding:5px;}
+.h-manue{width:58%; float:left; background-color:lightseagreen;margin:auto;}
+.h-search{width:27%;float:left;padding:5px}
+
+img{width:50px;height:50px; border-radius: 50%;border:1px solid lightslategray}
+
+.h-manue ul li{list-style: none; display:inline;margin:10px;padding:5px}
+.h-manue ul li a{text-decoration: none; padding:10px 15px;
+ color:antiquewhite}
+.h-manue ul li a:hover{background-color: black;}
+
+
+    .india{}
+    .india a{color:red;border:none;display:block;position:absolute;
+    
+    min-width: 200px;
+    }
+    .span{padding:10px;width:50px;height:50px;}
